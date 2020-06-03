@@ -1,1 +1,1 @@
-1. <a id="raw-url" href="C:\Users\jeeva\Desktop\Tanmay_new\python\pip" download>get-pip.py</a>
+1. <a id="raw-url" href="get-pip.py" download>get-pip.py</a>
