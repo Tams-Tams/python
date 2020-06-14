@@ -8,13 +8,14 @@ Or download the txt with [BOX](https://app.box.com/s/n6za3xyc8pmacclvfslzi28ca4p
  
 Maybe not so easily because your firewall will block it.
 
-If You download the exe, first the Browser firewallwill blck it.
+If You download the exe, first the Browser firewallwill block it.
 Click Keep File.
-
 Then system firewall. Also press run.
 If You Don't find the keep Button, Cick More Information and then Run anyway
  
-
+If You download the txt, first the Browser firewall will <b>not</b> block it.
+But The system firewall. Also press run.
+If You Don't find the keep Button, Cick More Information and then Run anyway
 
 
 Happy Hearing,<br>
