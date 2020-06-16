@@ -11,11 +11,11 @@ Maybe not so easily because your firewall will block it.
 If You download the exe, first the Browser firewallwill block it.
 Click Keep File.
 Then system firewall. Also press run.
-If You Don't find the keep Button, Cick More Information and then Run anyway
+If You Don't find the run Button, Cick More Information and then Run anyway
  
 If You download the txt, first the Browser firewall will <b>not</b> block it.
 But The system firewall. Also press run.
-If You Don't find the keep Button, Cick More Information and then Run anyway
+If You Don't find the run Button, Cick More Information and then Run anyway
 
 
 Happy Hearing,<br>
